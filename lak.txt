@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 hellooooo
 i m tanmay
+=======
+
+
+hellooooo
+
+This is ram 
+
+hello everyone
+>>>>>>> b23852b5582fc973291720d79e0093e25f0fe7a1
